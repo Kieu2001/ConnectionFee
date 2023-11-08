@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CrystalReportConnectionFee", "CrystalReportConnectionFee\", "{10D6E668-DDB1-48C4-9745-EF34A138EC30}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64784"
+		Debug.AspNetCompiler.PhysicalPath = "CrystalReportConnectionFee\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64784\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64784"
+		Release.AspNetCompiler.PhysicalPath = "CrystalReportConnectionFee\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64784\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64784"
+		SlnRelativePath = "CrystalReportConnectionFee\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D6E668-DDB1-48C4-9745-EF34A138EC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D6E668-DDB1-48C4-9745-EF34A138EC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8288BFA-7115-4AB4-AE17-3E3E77EBCD8E}
+	EndGlobalSection
+EndGlobal
